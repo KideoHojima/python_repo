@@ -7,4 +7,3 @@ for key, person in enumerate(people):
 
 [print(f"{','.join(value)} is/are {name}'s favorite number.") for name, value in favorite_numbers.items()]
 
-#git
